@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FestivalNet — 5G Mass Event Network Stress Simulator
 
 FestivalNet is an academic project demonstrating 5G network slicing, Erlang-B traffic theory, V2X communications, MEC, URLLC, and SDN concepts. It simulates a 5G NOC dashboard during mass events, complete with visual metrics and emergency slice rebalancing.
@@ -33,3 +34,6 @@ This will automatically launch the backend server at `http://localhost:4000` and
 - **Unit 2:** eMBB / URLLC / MMTC usage scenarios, V2X communications.
 - **Unit 3:** URLLC latency requirements (<1ms).
 - **Unit 4:** Network slicing, SDN policy engine, Multi-Access Edge Computing (MEC).
+=======
+# fesitvenet
+>>>>>>> bc958686556f9c2a71edc5e41780bdfe0d58eee6
